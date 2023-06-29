@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "htts://platzi.github.io/curso-react-intro",
+  "homepage": "https://SebastianLlanes.github.io/ToDoApp",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
