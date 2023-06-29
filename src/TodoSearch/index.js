@@ -10,7 +10,7 @@ function TodoSearch() {
   
   return (
     <input
-      placeholder="Cortar cebolla"
+      placeholder="Filtrá tu tarea"
       className="TodoSearch"
       value={searchValue}
       onChange={(event) => {
